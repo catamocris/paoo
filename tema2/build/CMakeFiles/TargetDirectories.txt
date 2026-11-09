@@ -1,0 +1,4 @@
+/home/cata/Desktop/paoo/teme/tema2/build/CMakeFiles/tema2.dir
+/home/cata/Desktop/paoo/teme/tema2/build/CMakeFiles/student.dir
+/home/cata/Desktop/paoo/teme/tema2/build/CMakeFiles/edit_cache.dir
+/home/cata/Desktop/paoo/teme/tema2/build/CMakeFiles/rebuild_cache.dir

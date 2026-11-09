@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tema2.dir/src/main.cpp.o -o tema2  libstudent.a 
