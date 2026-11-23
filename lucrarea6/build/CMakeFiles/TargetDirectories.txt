@@ -1,0 +1,3 @@
+/home/cata/Desktop/paoo/teme/lucrarea6/build/CMakeFiles/tema4.dir
+/home/cata/Desktop/paoo/teme/lucrarea6/build/CMakeFiles/edit_cache.dir
+/home/cata/Desktop/paoo/teme/lucrarea6/build/CMakeFiles/rebuild_cache.dir

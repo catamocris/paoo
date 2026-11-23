@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdocument.a CMakeFiles/document.dir/src/document.cpp.o
+/usr/bin/ranlib libdocument.a
