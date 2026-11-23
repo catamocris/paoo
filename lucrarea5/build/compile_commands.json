@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/cata/Desktop/paoo/teme/lucrarea5/build",
+  "command": "/usr/bin/c++  -I/home/cata/Desktop/paoo/teme/lucrarea5/inc -std=c++14 -o CMakeFiles/student.dir/src/person.cpp.o -c /home/cata/Desktop/paoo/teme/lucrarea5/src/person.cpp",
+  "file": "/home/cata/Desktop/paoo/teme/lucrarea5/src/person.cpp",
+  "output": "CMakeFiles/student.dir/src/person.cpp.o"
+},
+{
+  "directory": "/home/cata/Desktop/paoo/teme/lucrarea5/build",
+  "command": "/usr/bin/c++  -I/home/cata/Desktop/paoo/teme/lucrarea5/inc -std=c++14 -o CMakeFiles/student.dir/src/student.cpp.o -c /home/cata/Desktop/paoo/teme/lucrarea5/src/student.cpp",
+  "file": "/home/cata/Desktop/paoo/teme/lucrarea5/src/student.cpp",
+  "output": "CMakeFiles/student.dir/src/student.cpp.o"
+},
+{
+  "directory": "/home/cata/Desktop/paoo/teme/lucrarea5/build",
+  "command": "/usr/bin/c++  -I/home/cata/Desktop/paoo/teme/lucrarea5/inc -std=c++14 -o CMakeFiles/tema3.dir/src/main.cpp.o -c /home/cata/Desktop/paoo/teme/lucrarea5/src/main.cpp",
+  "file": "/home/cata/Desktop/paoo/teme/lucrarea5/src/main.cpp",
+  "output": "CMakeFiles/tema3.dir/src/main.cpp.o"
+}
+]

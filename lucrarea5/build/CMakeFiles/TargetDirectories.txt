@@ -1,0 +1,4 @@
+/home/cata/Desktop/paoo/teme/lucrarea5/build/CMakeFiles/student.dir
+/home/cata/Desktop/paoo/teme/lucrarea5/build/CMakeFiles/tema3.dir
+/home/cata/Desktop/paoo/teme/lucrarea5/build/CMakeFiles/edit_cache.dir
+/home/cata/Desktop/paoo/teme/lucrarea5/build/CMakeFiles/rebuild_cache.dir
