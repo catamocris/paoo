@@ -15,9 +15,9 @@ Student::Student(const Student& other)
 Student& Student::operator=(const Student& other) {
 
     // copiem inainte de a elibera memoria veche
-    int* newGrade = new int(*other.grade);
-    delete grade;
-    grade = newGrade;
+    int* oldGrade = grade;
+    grade = new int(*other.grade);
+    delete oldGrade;
 
     // copiem atributele mostenite
     Person::operator=(other);
